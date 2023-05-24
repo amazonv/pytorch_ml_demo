@@ -8,24 +8,21 @@
 
 In this project, we build an algorithm, a deep learning model to classify whether images contain either a dog or a cat.  This is easy for humans, dogs, and cats. Computers find it a bit more difficult.
 
+This is forked from [here](https://github.com/amitrajitbose/cat-v-dog-classifier-pytorch)
+
+### Python and Dependencies Requirements
+
+We will be using an ActiveState runtime to get up and going fast. You can ]see the public ActiveState project here](https://platform.activestate.com/DemoOrg/pytorch-ml-demo-3.10.10).
+
 ### Data
 
 The dataset is available at Kaggle and has been provided officially by Microsoft Research.You can find it [here](https://www.kaggle.com/c/dogs-vs-cats/data).
 
 ### Requirements
 
-We recommend to create a virtual environment using [conda](https://anaconda.org/anaconda/conda) or [virtualenv](https://pypi.org/project/virtualenv/), and then setup environment using `pip install -r requirements.txt` for setting up the environment. We have used **Python 3.6.7** for development. Below is the detailed 
+To start please have docker installed and download the data set.
 
-```
-torch==1.1.0
-torchvision==0.3.0
-Flask==1.0.3
-Pillow==6.0.0
-numpy==1.15.4
-pandas==0.23.4
-matplotlib==3.0.2
-requests==2.22.0
-```
+We also recommend cloning this repository and if you are familiar with ActiveState install the runtime virtual environment.
 
 ### Benchmarks
 
@@ -474,15 +471,6 @@ Estimated Total Size (MB): 370.92
 - [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 - [An Optical Frontend for a Convolutional Neural Network](https://arxiv.org/pdf/1901.03661.pdf)
 
-### Team
+### Creating Team / We forked from
 
 - [Amitrajit Bose](https://www.linkedin.com/in/amitrajitbose/)
-
-### Issues
-
-Feel free to submit any issues.
-
-### Contributions
-
-Currently open to only issues and bug fix related PRs. Feel free to solve an issue and submit a PR.
-
