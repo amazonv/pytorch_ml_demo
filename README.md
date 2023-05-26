@@ -12,11 +12,11 @@ This is forked from [here](https://github.com/amitrajitbose/cat-v-dog-classifier
 
 ### Python and Dependencies Requirements
 
-We will be using an ActiveState runtime to get up and going fast. You can ]see the public ActiveState project here](https://platform.activestate.com/DemoOrg/pytorch-ml-demo-3.10.10).
+We will be using an ActiveState runtime to get up and going fast. You can [see the public ActiveState project https://platform.activestate.com/DemoOrg/pytorch-ml-demo-3.10.8](https://platform.activestate.com/DemoOrg/pytorch-ml-demo-3.10.80).
 
 ### Data
 
-The dataset is available at Kaggle and has been provided officially by Microsoft Research.You can find it [here](https://www.kaggle.com/c/dogs-vs-cats/data).
+The dataset is available at Kaggle and has been provided officially by Microsoft Research. You can find it [https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/c/dogs-vs-cats/data).
 
 ### Requirements
 
